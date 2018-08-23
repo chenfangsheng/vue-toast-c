@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "chenfangsheng <296096963@qq.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "main": "dist/vue-toast-c.js",
   "repository": {
     "type": "git",
