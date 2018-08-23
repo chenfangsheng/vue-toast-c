@@ -15,12 +15,12 @@ npm install vue-toast-c --save
 ## main调用示例
 ``` bash
 import Toast from 'vue-toast-c'
-Vue.use(Toast);
+Vue.use(Toast)
 ```
 
 ## 组件中调用示例
 ``` bash
-this.$toast({mes: 'Hello World!'});
+this.$toast({mes: 'Hello World!'})
 ```
 
 ## Build Setup
